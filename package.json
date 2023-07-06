@@ -11,6 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-schedule": "^2.1.1"
+    "cron": "^2.3.1",
+    "node-schedule": "^2.1.1",
+    "path": "^0.12.7"
   }
 }
